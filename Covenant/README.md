@@ -2,7 +2,7 @@
 
 **Usage:**
 
-**1. Create a new Implant Template with the configuration in the figure below, paste the DomainBorrowingHttpsStager.cs to the StagerCode, and paste the DomainBorrowingHttpsExecutor.cs to the ExecutorCode**
+**1. Create a new Implant Template with the configuration in the figure below, copy the DomainBorrowingHttpsStager.cs to the StagerCode, and copy the DomainBorrowingHttpsExecutor.cs to the ExecutorCode**
 
 ![image-20210330194849932](images/README.assets/image-20210330194849932.png)
 
